@@ -5,7 +5,9 @@ This homework used the Pima Indians Diabetes dataset to train and test the algor
 
 The notebook starts with a brief introduction to the dataset and data preprocessing steps such as handling missing values, feature scaling, and splitting the data into training and testing sets.
 
-Next, the excercise implemented various machine learning algorithms, including logistic regression, decision tree, random forest, support vector machine, and K-nearest neighbors, and compared their performance metrics, such as accuracy.
+Next, the excercises have been completed: displot, boxplot, scatterplot 
+
+Then, implemented various machine learning algorithms, including logistic regression, decision tree, random forest, and compared their performance metrics, such as accuracy.
 
 This project visualized the results compare the two ML models: Logistic Regression model and Random forest model.
 
